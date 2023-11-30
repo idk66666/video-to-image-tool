@@ -7,6 +7,6 @@ How to:
 
 1st: get Mp4 path.
 
-2ct: past into program.
+2ct: paste into program.
 
 3rd: Enjoy.
